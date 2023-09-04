@@ -1,4 +1,7 @@
 # Merge Test
+
+test
+
 Use this file to exercise the GitHub portions of the OpenHW Group workflow.
 
 Parts of the [OpenHW Group workflow](https://github.com/openhwgroup/core-v-docs/blob/master/verif/Common/OpenHWGroup_WorkFlow.pdf)
