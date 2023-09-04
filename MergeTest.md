@@ -1,6 +1,6 @@
 # Merge Test
 
-test
+test other test
 
 Use this file to exercise the GitHub portions of the OpenHW Group workflow.
 
