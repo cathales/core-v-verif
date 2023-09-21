@@ -1,5 +1,7 @@
 <!--
 
+Test PR cross repo, submodule checkout
+
  Copyright 2020, 2021 OpenHW Group
 
  Licensed under the Solderpad Hardware Licence, Version 2.0 (the "License");
